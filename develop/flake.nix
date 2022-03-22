@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-foliant-develop.flake = false;
+  inputs.src-foliant-develop.ref   = "refs/heads/develop";
   inputs.src-foliant-develop.owner = "foliant-docs";
-  inputs.src-foliant-develop.ref   = "develop";
   inputs.src-foliant-develop.repo  = "foliant-nim";
   inputs.src-foliant-develop.type  = "github";
   

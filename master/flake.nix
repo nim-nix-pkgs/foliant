@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-foliant-master.flake = false;
+  inputs.src-foliant-master.ref   = "refs/heads/master";
   inputs.src-foliant-master.owner = "foliant-docs";
-  inputs.src-foliant-master.ref   = "master";
   inputs.src-foliant-master.repo  = "foliant-nim";
   inputs.src-foliant-master.type  = "github";
   
