@@ -11,7 +11,6 @@
   inputs.src-foliant-develop.ref   = "refs/heads/develop";
   inputs.src-foliant-develop.owner = "foliant-docs";
   inputs.src-foliant-develop.repo  = "foliant-nim";
-  inputs.src-foliant-develop.dir   = "";
   inputs.src-foliant-develop.type  = "github";
   
   inputs."docopt".owner = "nim-nix-pkgs";
