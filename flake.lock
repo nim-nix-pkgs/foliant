@@ -95,11 +95,11 @@
       },
       "locked": {
         "dir": "develop",
-        "lastModified": 1658033451,
-        "narHash": "sha256-3eU5n/guLwf4MT67aC9dOsIJaBfQW/PBwyfQHSO58yU=",
+        "lastModified": 1658203727,
+        "narHash": "sha256-krpZtVs2OsnDHJ4wK+jYqsZ+kw3gaqX4Q0woilT5c8M=",
         "owner": "nim-nix-pkgs",
         "repo": "foliant",
-        "rev": "5695a3d9b3c09b852375fb571be584ef90a4699b",
+        "rev": "ef4a92d41702c57e8d8d23d00d3e1773bca2f8dd",
         "type": "github"
       },
       "original": {
@@ -124,11 +124,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658033451,
-        "narHash": "sha256-3eU5n/guLwf4MT67aC9dOsIJaBfQW/PBwyfQHSO58yU=",
+        "lastModified": 1658203727,
+        "narHash": "sha256-krpZtVs2OsnDHJ4wK+jYqsZ+kw3gaqX4Q0woilT5c8M=",
         "owner": "nim-nix-pkgs",
         "repo": "foliant",
-        "rev": "5695a3d9b3c09b852375fb571be584ef90a4699b",
+        "rev": "ef4a92d41702c57e8d8d23d00d3e1773bca2f8dd",
         "type": "github"
       },
       "original": {
